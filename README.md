@@ -33,7 +33,7 @@
 
 ## ▶️ Как использовать
 
-1. Скачайте `PassGenerator.exe` из [Releases](https://github.com/gr1tx0/GenPass/PassGenerator.exe)
+1. Скачайте `PassGenerator.exe` 
 2. Запустите файл двойным кликом
 3. Следуйте инструкциям:
    - Укажите длину пароля (например, `12`)
